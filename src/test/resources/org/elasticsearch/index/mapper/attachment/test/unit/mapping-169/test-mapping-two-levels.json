@@ -1,0 +1,13 @@
+{
+    "mail":{
+        "properties":{
+            "attachments":{
+                "properties":{
+                    "content":{
+                        "type":"attachment"
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "mail":{
+        "properties":{
+            "attachments":{
+                "type":"attachment"
+            }
+        }
+    }
+}
